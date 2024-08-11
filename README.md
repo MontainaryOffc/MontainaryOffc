@@ -1,16 +1,12 @@
-## Hi there 👋
+//  Hello, I'm Alexander 👋
 
-<!--
-**MontainaryOffc/MontainaryOffc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⏰  Time zone - UTC+2
+📅  Mon - Fri // 12:00 - 23:59
+🎶  Phonk, Lofi, MemphisPhonk Listener 
+🎨  UX/UI Designer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// Contacts
+📧 montainary@gmail.com
+🌐 @montainary (Discord)
+🌐 @montainary (Telegram)
+🌐 @t21.l1ght_ (Instagram)
