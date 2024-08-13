@@ -9,4 +9,3 @@
 📧 montainary@gmail.com
 🌐 @montainary (Discord)
 🌐 @montainary (Telegram)
-🌐 @t21.l1ght_ (Instagram)
